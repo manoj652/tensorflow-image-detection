@@ -95,7 +95,7 @@ If you'd like to help support the development of the project, please consider ba
 ## License
 MIT License
 
-Copyright (c) 2017 Arun Michael Dsouza
+Copyright (c) 2019 Manoj Vasi
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -114,6 +114,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-All training dataset and input images have been taken from [freepik.com](https://www.freepik.com/).
 
