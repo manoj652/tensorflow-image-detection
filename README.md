@@ -81,14 +81,6 @@ Once the input file is selected, the classifier will output the predictions for 
 
 <br/>
 
-## Support
-
-If you'd like to help support the development of the project, please consider backing me on Patreon -
-
-[<img src="https://arunmichaeldsouza.com/img/patreon.png" width="180px;"/>](https://www.patreon.com/bePatron?u=8841116)
-
-<br/>
-
 ## License
 MIT License
 
